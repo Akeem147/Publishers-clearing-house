@@ -19,7 +19,7 @@ export default function FixedHeader() {
         src="/carl.jpg"
         width={24}
         height={24}
-        alt="img"
+        alt="img-photo"
       />
   </header>
   )
