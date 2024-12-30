@@ -3,8 +3,8 @@ import "./globals.css";
 import { AuthProvider } from "@/context/AuthContext";
 
 export const metadata: Metadata = {
-  title: "Facebook Lottery",
-  description: "Facebook Lottery",
+  title: "Publishers Clearing House",
+  description: "Publishers Clearing House",
   icons: "/icons/logo.svg"
 };
 

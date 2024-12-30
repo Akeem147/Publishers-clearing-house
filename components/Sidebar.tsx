@@ -59,14 +59,14 @@ export default function Sidebar() {
   {/* Large Screen Header */}
   <div className="hidden lg:flex items-center gap-2 px-6 pt-6">
     <Image
-      src="/facebook.png"
-      alt="Facebook Logo"
+      src="/pch.png"
+      alt="PCHLogo"
       className=" text-blue-600"
       width={40}
       height={40}
     />
-    <Link href="/" className="text-xl font-bold text-blue-600">
-      Facebook Claims
+    <Link href="/" className="text-xl font-bold text-yellow-500">
+      Claims
     </Link>
   </div>
 
